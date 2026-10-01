@@ -1,0 +1,49 @@
+﻿converter,source_variant,png_color_type,decoded_layer,frame_bytes,fully_transparent_pixels_alpha0,partial_alpha_pixels_0_to_254,non_gray_pixels,exact_64px_source_pixel_match
+site,rgb,2,16x16,386,0,0,0,not applicable
+site,rgb,2,32x32,556,0,0,0,not applicable
+site,rgb,2,48x48,1144,0,0,0,not applicable
+site,rgb,2,64x64,731,0,0,0,yes
+site,rgb,2,128x128,3079,0,0,0,not applicable
+site,rgb,2,256x256,8764,0,0,0,not applicable
+site,rgba,6,16x16,386,0,0,0,not applicable
+site,rgba,6,32x32,556,0,0,0,not applicable
+site,rgba,6,48x48,1144,0,0,0,not applicable
+site,rgba,6,64x64,731,0,0,0,yes
+site,rgba,6,128x128,3079,0,0,0,not applicable
+site,rgba,6,256x256,8764,0,0,0,not applicable
+site,indexed,3,16x16,386,0,0,0,not applicable
+site,indexed,3,32x32,556,0,0,0,not applicable
+site,indexed,3,48x48,1144,0,0,0,not applicable
+site,indexed,3,64x64,731,0,0,0,yes
+site,indexed,3,128x128,3079,0,0,0,not applicable
+site,indexed,3,256x256,8764,0,0,0,not applicable
+site,grayscale,0,16x16,386,0,0,0,not applicable
+site,grayscale,0,32x32,556,0,0,0,not applicable
+site,grayscale,0,48x48,1144,0,0,0,not applicable
+site,grayscale,0,64x64,731,0,0,0,yes
+site,grayscale,0,128x128,3079,0,0,0,not applicable
+site,grayscale,0,256x256,8764,0,0,0,not applicable
+convertico,rgb,2,16x16,1128,0,0,0,not applicable
+convertico,rgb,2,32x32,4264,0,0,0,not applicable
+convertico,rgb,2,48x48,9640,0,0,0,not applicable
+convertico,rgb,2,64x64,16936,0,0,0,yes
+convertico,rgb,2,128x128,67624,0,0,0,not applicable
+convertico,rgb,2,256x256,270376,0,0,0,not applicable
+convertico,rgba,6,16x16,1128,0,0,0,not applicable
+convertico,rgba,6,32x32,4264,0,0,0,not applicable
+convertico,rgba,6,48x48,9640,0,0,0,not applicable
+convertico,rgba,6,64x64,16936,0,0,0,yes
+convertico,rgba,6,128x128,67624,0,0,0,not applicable
+convertico,rgba,6,256x256,270376,0,0,0,not applicable
+convertico,indexed,3,16x16,1128,0,0,0,not applicable
+convertico,indexed,3,32x32,4264,0,0,0,not applicable
+convertico,indexed,3,48x48,9640,0,0,0,not applicable
+convertico,indexed,3,64x64,16936,0,0,0,yes
+convertico,indexed,3,128x128,67624,0,0,0,not applicable
+convertico,indexed,3,256x256,270376,0,0,0,not applicable
+convertico,grayscale,0,16x16,1128,0,0,0,not applicable
+convertico,grayscale,0,32x32,4264,0,0,0,not applicable
+convertico,grayscale,0,48x48,9640,0,0,0,not applicable
+convertico,grayscale,0,64x64,16936,0,0,0,yes
+convertico,grayscale,0,128x128,67624,0,0,0,not applicable
+convertico,grayscale,0,256x256,270376,0,0,0,not applicable

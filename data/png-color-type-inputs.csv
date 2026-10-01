@@ -1,0 +1,5 @@
+﻿source_variant,png_color_type,bit_depth,width_px,height_px,input_bytes,input_sha256,input_file
+rgb,2,8,64,64,439,08e2e79aa1885eecb30cd878bdda85b0bec7cad2773d4d498e773b5f29d9cb24,rgb.png
+rgba,6,8,64,64,453,68ee89ce4bddcba564d39e115b46c7fdfe9951d6bc6095e2a9bf2107004fbd8d,rgba.png
+indexed,3,8,64,64,1039,4836de8e7b0db2db3da7dd59ee573ac46702706ecb8d56555f1885103bad6f6c,indexed.png
+grayscale,0,8,64,64,316,6721480329c71d81fd4b0f1353737d8bdb188be256af8c4700573297e51e7d85,grayscale.png
